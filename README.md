@@ -1,3 +1,3 @@
 # coding
 studycoding
-<p> 이상할리만큼</p>
+<p><b>수정된 텍스트</b></p>
